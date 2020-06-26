@@ -1,0 +1,16 @@
+name: first_use
+description: A simple flutter package to get whether this is the first time an app is launched
+version: 0.0.3
+homepage: https://dllewellyn.github.io/packages/first_use
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ">=0.5.3 <2.0.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
